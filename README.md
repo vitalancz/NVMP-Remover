@@ -226,16 +226,15 @@ Yes. If NVMP is already removed, it will do little or nothing.
 
 ---
 
-## License (suggested)
+## License
 
-MIT License (recommended). If you want, add a `LICENSE` file with the MIT text.  
-(Keeping the license section here is fine, but GitHub best practice is a separate `LICENSE` file.)
+MIT License
 
 ---
 
 ## Disclaimer
 
-This project is not affiliated with Bethesda, Obsidian, Steam, or any NVMP team.  
+This project is not affiliated with Bethesda, Obsidian, or any NVMP team.  
 You use this tool at your own risk. Always keep backups of modded game installs.
 
 If you hit an edge case, open an issue and include:
